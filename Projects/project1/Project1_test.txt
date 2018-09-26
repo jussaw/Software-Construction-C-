@@ -1,0 +1,30 @@
+Test Results
+Test 1: First high score was written correctly.
+Test cases passed
+
+Test 2: Ninth high score was written correctly.
+Test cases passed
+
+Test 3: Tenth high score was written correctly.
+Test cases passed
+
+Test 4: Check out of bounds for user input in main menu.
+Test cases passed
+
+Test 5: Check out of bounds for user input in game menu.
+Test cases passed
+
+Test 6: readFileTest() Tests readFile for proper functionality.
+Test cases passed
+
+Test 7: writeFile() Tests writeFile for proper functionality.
+Test cases passed
+
+Test 8: checkIfHighScoreTest() Tests checkIfHighScore for proper functionality.
+Test cases passed
+
+Test 9: createPuzzlesTest() Test creatPuzzles() for proper functionality.
+Test cases passed
+
+Test 10: calculateScoreTest() Tests calculateScire for proper functionality
+Test cases passed
